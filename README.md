@@ -17,7 +17,7 @@ Features :
     5.  getAccountBalance
     6.  Logout
 
-Karena banyaknya permintaan, dan susahnya untuk bypass API Gojek Gopay yang baru, dengan ini saya menjual script ini.
+Saya menjual script ini.
 
 
 
